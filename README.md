@@ -1,12 +1,12 @@
    Hello, world!
 
-💻 - I’m currently working on Uber technology
+💻 - **I’m currently working on Uber technology.**
 
-📚 - I’m currently learning html, CSS, javascript and Python.
+📚 - **I’m currently learning html, CSS, javascript and Python.**
 
-💡 - I’m looking to collaborate on lending pages and initial projects with html, css, Javasdcript and python 
+💡 - **I’m looking to collaborate on lending pages and initial projects with html, css, Javasdcript and python.**
 
-⚠️ - I’m looking for help with Front end projects
+⚠️ - **I’m looking for help with Front end projects.**
 
 #
 

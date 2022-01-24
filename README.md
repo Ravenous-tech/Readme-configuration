@@ -1,4 +1,4 @@
-### Olá! Seja bem vindo(a)!
+### Hello, world!
 
 -  I’m currently working on Uber technology
 -  I’m currently learning html, CSS, javascript and Python.

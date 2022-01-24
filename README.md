@@ -30,6 +30,7 @@
     
 ![Snake animation](https://github.com/Ravenous-tech/blob/output/github-contribution-grid-snake.svg)
   
+  
   </div>  
   
   -->

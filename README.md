@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/Ravenous-tech">
-  <img height="275em" src="https://github-readme-stats.vercel.app/api?username=Ravenous-tech&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravenous-tech&layout=compact&langs_count=7&theme=radical"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ravenous-tech&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="131em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravenous-tech&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
  <div style="display: inline_block"><br>
